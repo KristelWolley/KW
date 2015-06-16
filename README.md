@@ -1,2 +1,2 @@
 # KW
-Long Proyect
+Long Project
